@@ -1,8 +1,9 @@
 Hi there 👋
 
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on data engineering/web project
 - 📫 How to reach me: linkedin.com/in/rishad-harisdias
+- VOCVERSE (<a href='https://vocverse.id'>https://www.vocverse.id</a>)
 
 <br>
 <a href="https://rishadharis.github.io">
