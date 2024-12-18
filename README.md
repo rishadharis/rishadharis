@@ -1,14 +1,23 @@
-Hi there 👋
+# 👋 Hi, I'm a Cloud Data Engineer
 
-- 🌱 I'm Cloud Data Engineer at Cloud Kinetics, leveraging cloud technologies
-- 👯 I’m open to collaborate on data engineering/web project/AI project
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rishad-harisdias">LinkedIn</a>
+### What I Do
+🚀 Building data solutions at Cloud Kinetics, specializing in cloud-native architectures
+🔧 Expert in designing and implementing scalable data pipelines and ETL processes
+☁️ Working with major cloud platforms (AWS/GCP/Azure)
 
-<br>
-<a href="https://rishadharis.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishadharis&layout=compact&theme=vision-friendly-dark" />
-</a>
+### Open for Collaboration
+🤝 Always interested in:
+- Data Engineering projects
+- Cloud Infrastructure optimization
+- AI/ML implementations
+- Open source contributions
 
-<a href="https://rishadharis.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rishadharis&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Rishad's @rishadharis GitHub Stats" />
-</a>
+### Tech Stack
+💻 Primary tools & technologies:
+[ ] AWS, GCP, Azure
+[ ] Snowflake, DBT
+[ ] Python, Golang, Javascript
+[ ] LangChain, LangGraph, Bedrock, OpenAI, Anthropic
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishad-harisdias)
