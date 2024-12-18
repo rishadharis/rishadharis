@@ -1,9 +1,8 @@
 Hi there 👋
 
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on data engineering/web project
-- 📫 How to reach me: linkedin.com/in/rishad-harisdias
-- VOCVERSE (<a href='https://vocverse.id'>https://www.vocverse.id</a>)
+- 🌱 I'm Cloud Data Engineer at Cloud Kinetics, leveraging cloud technologies
+- 👯 I’m open to collaborate on data engineering/web project/AI project
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rishad-harisdias">LinkedIn</a>
 
 <br>
 <a href="https://rishadharis.github.io">
